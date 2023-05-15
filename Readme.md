@@ -59,14 +59,14 @@ yarn add class-transformer class-validator typeorm mysql2
 
 [Start TypeORM](./TypeORM%205a04a85edd384ef7b169b0e6caf5fd28/Start%20TypeORM.md)
 
-[Entity](./TypeORM%205a04a85edd384ef7b169b0e6caf5fd28/Entity.md)
+[Entity](./TypeORM%20Document%20Analysis/Entity.md)
 
-[Embedded Entites & Entity Inheritance](./TypeORM%205a04a85edd384ef7b169b0e6caf5fd28/Embedded%20Entites%20%26%20Entity%20Inheritance.md)
+[Embedded Entites & Entity Inheritance](./TypeORM%20Document%20Analysis/Embedded%20Entites%20%26%20Entity%20Inheritance.md)
 
-[Relation](./TypeORM%205a04a85edd384ef7b169b0e6caf5fd28/Relation.md)
+[Relation](./TypeORM%20Document%20Analysis/Relation.md)
 
-[Relation : One to One](./TypeORM%205a04a85edd384ef7b169b0e6caf5fd28/Relation%20One%20to%20One.md)
+[Relation : One to One](./TypeORM%20Document%20Analysis/Relation%20One%20to%20One.md)
 
-[Relation : One to Many / Many to One](./TypeORM%205a04a85edd384ef7b169b0e6caf5fd28/Relation%20One%20to%20Many%20Many%20to%20One.md)
+[Relation : One to Many / Many to One](./TypeORM%20Document%20Analysis/Relation%20One%20to%20Many%20Many%20to%20One.md)
 
-[Relation : Many To Many](./TypeORM%205a04a85edd384ef7b169b0e6caf5fd28/Relation%20Many%20To%20Many.md)
+[Relation : Many To Many](./TypeORM%20Document%20Analysis/Relation%20Many%20To%20Many.md)
